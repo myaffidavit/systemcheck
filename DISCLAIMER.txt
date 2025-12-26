@@ -1,0 +1,76 @@
+================================================================================
+                    myAffidavit System Compatibility Checker
+                              DISCLAIMER & PRIVACY
+================================================================================
+
+VERSION: 1.0.0
+PUBLISHER: myAffidavit.ai
+WEBSITE: https://myaffidavit.ai
+CONTACT: info@myaffidavit.ai
+
+--------------------------------------------------------------------------------
+                              PURPOSE
+--------------------------------------------------------------------------------
+
+This application checks whether your Windows computer meets the minimum 
+hardware and software requirements to run the myAffidavit desktop application.
+
+It performs the following local checks:
+- Operating system version
+- CPU specifications  
+- Available RAM
+- Available disk space
+- Graphics capabilities
+
+--------------------------------------------------------------------------------
+                         PRIVACY & DATA COLLECTION
+--------------------------------------------------------------------------------
+
+THIS APPLICATION:
+
+- Does NOT collect any personal information
+- Does NOT transmit any data over the internet
+- Does NOT connect to any external servers or services
+- Does NOT install any software on your computer
+- Does NOT modify any system settings
+- Does NOT access files, documents, or personal data
+- Runs ENTIRELY OFFLINE on your local machine
+
+All system information is displayed on-screen only and is not stored, logged,
+or transmitted anywhere.
+
+--------------------------------------------------------------------------------
+                              USAGE
+--------------------------------------------------------------------------------
+
+1. Run the application
+2. View the compatibility results on screen
+3. Optionally copy the report to clipboard for your reference
+4. Close the application when finished
+
+You may delete this application at any time by simply removing the file.
+No uninstallation is required.
+
+--------------------------------------------------------------------------------
+                           DISCLAIMER
+--------------------------------------------------------------------------------
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR 
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE 
+USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+The compatibility check results are provided for informational purposes only
+and do not guarantee application performance on your system.
+
+--------------------------------------------------------------------------------
+                              COPYRIGHT
+--------------------------------------------------------------------------------
+
+Copyright (c) 2025 myAffidavit.ai. All rights reserved.
+
+================================================================================
